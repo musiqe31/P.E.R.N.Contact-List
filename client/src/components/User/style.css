@@ -1,0 +1,25 @@
+.usercard {
+  border: 1px solid black;
+  width: 30%;
+  margin: 20px auto 20px;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.update {
+  background-color: blue;
+  color: white;
+  margin: 5px;
+  border-radius: 5px;
+  height: 40px;
+  width: 40%;
+}
+
+.delete {
+  background-color: red;
+  color: white;
+  margin: 5px;
+  border-radius: 5px;
+  height: 40px;
+  width: 40%;
+}

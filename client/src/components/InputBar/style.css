@@ -1,0 +1,18 @@
+.bar {
+  margin-top: 20px;
+}
+
+.adduser {
+  background-color: green;
+  color: white;
+  margin: 5px;
+  border-radius: 5px;
+  height: 40px;
+  width: 10%;
+}
+
+.bars {
+  border-radius: 5px;
+  height: 35px;
+  margin: 5px;
+}
